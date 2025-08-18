@@ -1,5 +1,3 @@
-## Hi there 👋
-
 ### About me
 * I'm an applied mathematician (~BSc) with an addiction to algorithmic bioinformatics (MSc)
 * My favourite playground is structural bioinformatics and chemoinformatics
